@@ -1,1 +1,1 @@
-This project is a python based CG calculator
+This CG calculator is based on the EEE courses of BSc Engineering in Islamic University of Technology.
